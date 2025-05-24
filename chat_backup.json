@@ -1,0 +1,62 @@
+[
+  {
+    "type": "human",
+    "content": "de que es?",
+    "timestamp": "2025-05-23 15:22:17.324390"
+  },
+  {
+    "type": "ai",
+    "content": "La respuesta es RAG, lo que probablemente significa \"Registro Acad\u00e9mico General\" o algo similar relacionado con la educaci\u00f3n.",
+    "timestamp": "2025-05-23 15:22:17.324390"
+  },
+  {
+    "type": "human",
+    "content": "de quien es?",
+    "timestamp": "2025-05-23 15:22:42.860918"
+  },
+  {
+    "type": "ai",
+    "content": "La clase 8 y el RAG (Registro Acad\u00e9mico General) pertenece a Jan Polanco Velasco.",
+    "timestamp": "2025-05-23 15:22:42.860918"
+  },
+  {
+    "type": "human",
+    "content": "Rag?",
+    "timestamp": "2025-05-23 15:23:06.736214"
+  },
+  {
+    "type": "ai",
+    "content": "Seg\u00fan lo que he aprendido, un RAG se utiliza cuando se va a trabajar con data privada. Tambi\u00e9n ayuda a aumentar el \"conocimiento del LLM\" basado en ciertas especificaciones y necesidades. Un RAG tiene 2 bloques: Indexaci\u00f3n y Retrieval and Generation.",
+    "timestamp": "2025-05-23 15:23:06.736214"
+  },
+  {
+    "type": "human",
+    "content": "de quien es la clase?",
+    "timestamp": "2025-05-23 18:47:21.428057"
+  },
+  {
+    "type": "ai",
+    "content": "La respuesta es: Universidad Aut\u00f3noma de Occidente",
+    "timestamp": "2025-05-23 18:47:21.428057"
+  },
+  {
+    "type": "human",
+    "content": "y sobre que es?",
+    "timestamp": "2025-05-23 18:47:35.096108"
+  },
+  {
+    "type": "ai",
+    "content": "La clase es sobre Prototipado y postproducci\u00f3n audiovisual con Adobe Creative Suite, Gesti\u00f3n de proyectos \u00e1giles utilizando Scrum y otras metodologias.",
+    "timestamp": "2025-05-23 18:47:35.096108"
+  },
+  {
+    "type": "human",
+    "content": "ah listo muchas gracias",
+    "timestamp": "2025-05-23 18:48:04.594270"
+  },
+  {
+    "type": "ai",
+    "content": "\u00a1Claro! Me alegra haber podido ayudarte. La clase es sobre Prototipado y postproducci\u00f3n audiovisual con Adobe Creative Suite, Gesti\u00f3n de proyectos \u00e1giles utilizando Scrum y otras metodologias. \u00a1Espero que sea interesante!",
+    "timestamp": "2025-05-23 18:48:04.594270"
+  }
+]

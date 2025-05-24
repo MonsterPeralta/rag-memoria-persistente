@@ -1,0 +1,13 @@
+[project]
+name = "chatbot-rag"
+version = "0.1.0"
+dependencies = [
+    "uvicorn",
+    "streamlit",
+    "langchain",
+    "chromadb",
+    "pypdf",
+    "ollama",
+    "langsmith",
+    "python-dotenv"
+]

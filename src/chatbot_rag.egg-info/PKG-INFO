@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: chatbot-rag
+Version: 0.1.0
+Requires-Dist: uvicorn
+Requires-Dist: streamlit
+Requires-Dist: langchain
+Requires-Dist: chromadb
+Requires-Dist: pypdf
+Requires-Dist: ollama
+Requires-Dist: langsmith
+Requires-Dist: python-dotenv

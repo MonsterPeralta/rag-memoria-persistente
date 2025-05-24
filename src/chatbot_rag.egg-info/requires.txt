@@ -1,0 +1,8 @@
+uvicorn
+streamlit
+langchain
+chromadb
+pypdf
+ollama
+langsmith
+python-dotenv
